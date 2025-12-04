@@ -1,5 +1,7 @@
 # Sign Language Translation App
 
+ <img src="Sign Sarthi Cover Image.png" alt="Translation Screen - 'Please Help Me'" width="1000" style="margin-right: 10px;"/>
+
 This project is a mobile application that translates English language text into sign language animations. The app is built using React Native for the front end and FastAPI for the back end. Natural Language Processing (NLP) is utilized for translating English into sign language using NLTK (Natural Language Toolkit). Additionally, Jupyter notebooks are provided for preprocessing the sign videos dataset, cleaning the dataset, and generating animations using OpenPose and Matplotlib.
 
 ## Table of Contents
